@@ -37,6 +37,7 @@
 		else
 		{
 			echo "some problem is there";
+	echo "hi";
 		}
 }
 ?>
